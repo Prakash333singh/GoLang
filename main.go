@@ -5,8 +5,8 @@ import "mylearning/mypackage"
 func main() {
 	// var name string = "adhikari"
 	// fmt.Println(name)
-	// fmt.Println("Pagal hai kya bhen ki lodi")
-	// myutil.PrintMessage("chal na lode")
+	// fmt.Println("Pagal hai kya ")
+	// myutil.PrintMessage("chal na ")
 
 	// var person = 23
 	// person = 20

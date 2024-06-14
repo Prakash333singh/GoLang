@@ -29,6 +29,7 @@ type Employee struct {
 }
 
 func main() {
+
 	//1st method
 	// var prakash Person
 	//fmt.Println("Price Person :", prakash)
