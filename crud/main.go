@@ -21,4 +21,5 @@ func main() {
 	}
 	//it will return bits of data
 	fmt.Print(string(data))
+
 }
