@@ -1,7 +1,7 @@
 package main //khudse run ho jaye
 import (
-	"command-line-argumentsD:\\golang\\import export\\calculator\\cal.go"
 	"fmt"
+	calculator "import export\\calculator\\cal.go"
 )
 
 //man made liberary
